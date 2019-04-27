@@ -6,6 +6,9 @@ http://www.litecoin.org
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 
+Litecoin 0.8 modified for my own blockchain experiment.
+
+
 What is Litecoin?
 ----------------
 
